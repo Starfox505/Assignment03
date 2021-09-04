@@ -3,3 +3,19 @@ body {
     text-indent: 1.50rem;
     line-height: 2.25rem;
 }
+
+.yellow :hover {
+    color: rgb(255, 252, 82);
+}
+
+.red :hover {
+    color: rgb(252, 0, 0);
+}
+
+.brown :hover {
+    color: rgb(117, 77, 7);
+}
+
+.orange :hover {
+    color: rgb(255, 162, 0);
+}
