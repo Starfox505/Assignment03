@@ -25,6 +25,20 @@ body {
     text-indent: 0rem;
 }
 
+.main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.reservoir {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .text {
     font-size: 2.5rem;
 }
