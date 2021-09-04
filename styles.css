@@ -19,3 +19,8 @@ body {
 .orange :hover {
     color: rgb(255, 162, 0);
 }
+
+.heading {
+    font-size: 3rem;
+    text-indent: 0rem;
+}
