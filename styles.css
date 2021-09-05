@@ -1,7 +1,8 @@
 body {
-    font-size: 16px;
+    font-size: 18px;
     text-indent: 1.50rem;
     line-height: 2.25rem;
+    font-family: Arial;
 }
 
 .yellow :hover {
