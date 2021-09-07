@@ -1,7 +1,7 @@
 body {
 	font-size: 18px;
-	line-height: 2.25rem;
 	font-family: Arial;
+	line-height: 1.4rem;
 }
 
 h1 {
@@ -17,6 +17,11 @@ h2 {
 h3 {
 	font-size: 2rem;
 	text-align: center;
+}
+
+p {
+	text-indent: 4rem;
+	line-height: 1.45rem;
 }
 
 #copyright {
